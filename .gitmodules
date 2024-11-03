@@ -1,0 +1,6 @@
+[submodule "finance-app"]
+	path = finance-app
+	url = https://github.com/drianodev/finance-app
+[submodule "finance-api"]
+	path = finance-api
+	url = https://github.com/drianodev/finance-api
